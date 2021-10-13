@@ -1,0 +1,19 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"request"},
+{"type":"table","name":"actions","database":"request","data":
+[
+
+]
+}
+,{"type":"table","name":"meets","database":"request","data":
+[
+
+]
+}
+,{"type":"table","name":"requests","database":"request","data":
+[
+
+]
+}
+]
